@@ -1,0 +1,14 @@
+let studentName = "Amit"
+let age = 21
+let isPass = true
+let studentAddress = ""
+// let studentId;
+
+// string => ""
+// number => 2 to power 53 
+// number agar bda ho to 
+// bigint ka use krte hain
+// boolean => true/false
+// null => khali 
+// undefined => kuchh to hai but define nhi hai 
+// symbol 
